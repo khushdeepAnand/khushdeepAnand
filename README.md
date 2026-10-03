@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/header.svg" alt="Khushdeep Anand banner" />
+<img width="100%" src="./assets/header.jpeg" alt="Khushdeep Anand banner" />
 
 <br/>
 
@@ -17,35 +17,33 @@
 <a href="https://github.com/khushdeepAnand?tab=followers">
   <img src="https://img.shields.io/github/followers/khushdeepAnand?style=for-the-badge&amp;logo=github&amp;logoColor=7DD3FC&amp;label=FOLLOWERS&amp;color=0D1117" alt="GitHub followers" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=khushdeepAnand&amp;label=PROFILE%20VIEWS&amp;color=0D1117&amp;style=for-the-badge" alt="Profile views" />
 
 </div>
 
----
+👋 About Me
 
-## 👋 About Me
-
-```ts
 const khushdeep = {
   role: "Developer & Technology Enthusiast",
   focus: ["Artificial Intelligence", "Software Development", "Web Development"],
   stack: ["Python", "JavaScript", "Astro", "React"],
   mindset: "Build. Learn. Test. Improve."
 };
-```
 
-I enjoy building **practical, intelligent and maintainable software** with a focus on artificial intelligence, modern web development and real-world software solutions.
+I enjoy building practical, intelligent and maintainable software with a focus on artificial intelligence, modern web development and real-world software solutions.
 
-- 🐍 Building applications with Python
-- 🤖 Exploring AI and intelligent systems
-- 🌐 Developing modern web experiences
-- 📊 Working with data-driven applications
-- 📈 Exploring financial technology
-- 🚀 Learning continuously through hands-on projects
+🐍 Building applications with Python
 
----
+🤖 Exploring AI and intelligent systems
 
-## ✨ Featured Work
+🌐 Developing modern web experiences
+
+📊 Working with data-driven applications
+
+📈 Exploring financial technology
+
+🚀 Learning continuously through hands-on projects
+
+✨ Featured Work
 
 <table>
 <tr>
@@ -61,14 +59,21 @@ I enjoy building **practical, intelligent and maintainable software** with a foc
 
 An intelligent stock-market application focused on market data, technical analysis, visualization and AI-assisted workflows.
 
-**Highlights**
-- Technical indicators
-- Interactive analytics
-- AI-assisted insights
-- Paper-trading concepts
-- Financial data visualization
+Highlights
 
-**Stack:** `Python` `AI/ML` `Market Data` `Analytics`
+Real-time market-oriented workflows
+
+Technical indicators
+
+Interactive analytics
+
+AI-assisted insights
+
+Paper-trading concepts
+
+Financial data visualization
+
+Stack: Python AI/ML Market Data Analytics
 
 </td>
 
@@ -84,14 +89,19 @@ An intelligent stock-market application focused on market data, technical analys
 
 A modern personal portfolio designed to showcase projects, technical skills and development experience.
 
-**Highlights**
-- Modern responsive interface
-- Project showcase
-- Developer profile
-- Personal branding
-- Interactive web experience
+Highlights
 
-**Stack:** `Astro` `JavaScript` `HTML` `CSS`
+Modern responsive interface
+
+Project showcase
+
+Developer profile
+
+Personal branding
+
+Interactive web experience
+
+Stack: Astro JavaScript HTML CSS
 
 </td>
 </tr>
@@ -105,17 +115,15 @@ A modern personal portfolio designed to showcase projects, technical skills and 
 
 </div>
 
----
-
-## 🧰 Tech Stack
+🧰 Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
+Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=py,js,html,css,react,astro&amp;theme=dark" alt="Languages and frameworks" />
 
-### Development Tools
+Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark" alt="Development tools" />
 
@@ -128,9 +136,7 @@ A modern personal portfolio designed to showcase projects, technical skills and 
 
 </div>
 
----
-
-## 📊 Developer Snapshot
+📊 Developer Snapshot
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khushdeepAnand&amp;show_icons=true&amp;include_all_commits=true&amp;bg_color=0D1117&amp;title_color=7DD3FC&amp;text_color=C9D1D9&amp;icon_color=7DD3FC&amp;border_color=30363D&amp;rank_icon=github" alt="Khushdeep Anand GitHub stats" />
@@ -141,24 +147,20 @@ A modern personal portfolio designed to showcase projects, technical skills and 
   <img width="68%" src="https://streak-stats.demolab.com?user=khushdeepAnand&amp;background=0D1117&amp;border=30363D&amp;ring=7DD3FC&amp;fire=7DD3FC&amp;currStreakLabel=7DD3FC&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF" alt="Khushdeep Anand GitHub streak" />
 </p>
 
----
-
-## 🎯 Current Focus
+🎯 Current Focus
 
 <div align="center">
 
-`Artificial Intelligence` &#160;•&#160;
-`Python` &#160;•&#160;
-`Web Development` &#160;•&#160;
-`Data Analytics` &#160;•&#160;
-`Financial Technology` &#160;•&#160;
-`Software Engineering`
+Artificial Intelligence  • 
+Python  • 
+Web Development  • 
+Data Analytics  • 
+Financial Technology  • 
+Software Engineering
 
 </div>
 
----
-
-## 🚀 Featured Repository
+🚀 Featured Repository
 
 <div align="center">
 
@@ -168,9 +170,7 @@ A modern personal portfolio designed to showcase projects, technical skills and 
 
 </div>
 
----
-
-## 🌐 Connect
+🌐 Connect
 
 <div align="center">
 
@@ -184,10 +184,10 @@ A modern personal portfolio designed to showcase projects, technical skills and 
 
 <br/><br/>
 
-### Let's build something intelligent, practical and memorable.
+Let's build something intelligent, practical and memorable.
 
 <sub>Developer · AI Enthusiast · Problem Solver</sub>
 
 </div>
 
-<img width="100%" src="./assets/footer.svg" alt="Footer banner" />
+<img width="100%" src="./assets/footer.jpeg" alt="Footer banner" />
