@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:172033,100:7DD3FC&amp;height=230&amp;section=header&amp;text=Khushdeep%20Anand&amp;fontSize=54&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Developer%20%E2%80%A2%20AI%20%26%20Technology%20Enthusiast&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn" alt="Khushdeep Anand banner" />
+<img width="100%" src="./assets/header.svg" alt="Khushdeep Anand banner" />
 
 <br/>
 
@@ -61,8 +61,7 @@ I enjoy building **practical, intelligent and maintainable software** with a foc
 
 An intelligent stock-market application focused on market data, technical analysis, visualization and AI-assisted workflows.
 
-### Highlights
-- Real-time market-oriented workflows
+**Highlights**
 - Technical indicators
 - Interactive analytics
 - AI-assisted insights
@@ -85,7 +84,7 @@ An intelligent stock-market application focused on market data, technical analys
 
 A modern personal portfolio designed to showcase projects, technical skills and development experience.
 
-### Highlights
+**Highlights**
 - Modern responsive interface
 - Project showcase
 - Developer profile
@@ -191,4 +190,4 @@ A modern personal portfolio designed to showcase projects, technical skills and 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7DD3FC,50:172033,100:0D1117&amp;height=110&amp;section=footer" alt="Footer banner" />
+<img width="100%" src="./assets/footer.svg" alt="Footer banner" />
