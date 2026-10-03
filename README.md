@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/header.svg" alt="Khushdeep Anand banner" />
+<img width="100%" src="./header.jpeg" alt="Khushdeep Anand banner" />
 
 <br/>
 
@@ -190,4 +190,4 @@ A modern personal portfolio designed to showcase projects, technical skills and 
 
 </div>
 
-<img width="100%" src="./assets/footer.svg" alt="Footer banner" />
+<img width="100%" src="./footer.jpeg" alt="Footer banner" />
